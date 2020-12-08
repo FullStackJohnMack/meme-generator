@@ -1,0 +1,22 @@
+img {
+    width: 525px;
+    height: 350px;
+}
+
+.topText {
+    position: absolute;
+    align-self: center;
+}
+
+.bottomText {
+    position: relative;
+    align-self: center;
+    top: -105px;
+}
+
+.meme {
+    display: flex;
+    flex-direction: column;
+    width: 525px;
+    position: relative;
+}
